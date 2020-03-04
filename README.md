@@ -1,10 +1,10 @@
 # vue-smash
 
-> Frontend for the unnamed smash project
+> Vue app to show Melee rankings generated from smash.gg data!
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 

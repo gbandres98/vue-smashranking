@@ -1,7 +1,7 @@
 {
-  "name": "vue-smash",
+  "name": "vue-smashranking",
   "version": "1.0.0",
-  "description": "Frontend for the unnamed smash project",
+  "description": "Vue app to show Melee rankings generated from smash.gg data! ",
   "author": "Guillermo Bandrés Catalina",
   "private": true,
   "scripts": {
